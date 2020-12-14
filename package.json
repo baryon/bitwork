@@ -7,13 +7,15 @@
   "license": "Open BSV",
   "dependencies": {
     "JSONStream": "^1.3.5",
-    "b2p2p": "0.0.7",
     "batch-stream": "^0.1.3",
-    "bitcoind-rpc": "^0.8.1",
-    "bpu": "0.0.10",
-    "bsv": "^1.2.0",
+    "bitcoind-rpc": "github:baryon/bitcoind-rpc",
+    "bpu": "0.0.13",
+    "bsv": "^1.5.4",
+    "bsv-p2p": "github:baryon/bsv-p2p",
     "event-stream": "^4.0.1",
+    "lodash": "^4.17.20",
+    "quickapi-sv": "^1.3.1",
     "tail-stream": "^0.3.4",
-    "txo": "0.0.17"
+    "txo": "0.0.21"
   }
 }

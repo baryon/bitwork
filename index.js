@@ -1,4 +1,4 @@
-const {Peer, Messages, Inventory} = require('b2p2p')
+const {Peer, Messages, Inventory} = require('bsv-p2p')
 const bsv = require('bsv')
 const es = require('event-stream')
 const fs = require('fs')
